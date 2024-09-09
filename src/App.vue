@@ -1,7 +1,9 @@
-<script setup lang="ts"></script>
-
 <template>
-  <h1>Hello World!</h1>
+  <ChatView />
 </template>
+
+<script setup lang="ts">
+import ChatView from './views/ChatView.vue';
+</script>
 
 <style scoped></style>
