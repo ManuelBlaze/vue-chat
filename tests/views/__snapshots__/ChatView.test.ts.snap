@@ -1,0 +1,5 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`ChatView > should emit onMessage when sending a message 1`] = `[Function]`;
+
+exports[`ChatView > should properly renders chat messages and message box 1`] = `[Function]`;

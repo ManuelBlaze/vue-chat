@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-gray-300 text-black p-2 rounded-lg max-w-3.5">
+  <div class="bg-gray-300 text-black p-2 rounded-lg max-w-3">
     <div class="flex gap-1">
       <span class="dot"></span>
       <span class="dot"></span>
